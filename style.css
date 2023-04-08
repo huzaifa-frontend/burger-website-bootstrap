@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+
+nav{
+background-color: rgb(255, 236, 95);
+border-bottom-color: rgb(222, 226, 230) ;
+overflow: hidden;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+nav a {
+    display: block;
+    text-decoration: none;
+    font-size: auto;
+
+}
+
+nav a:hover {
+    background-color:#ffffff;
+    transition: ease-in-out;
+}
+
+
+
+.h1{
+
+    font-family: 'Titillium Web', sans-serif;
+
+   }
+
+
+.n1{
+
+    background-color: ffec5f;
+
+   }
+
+    h2,h5,h4{font-family: 'Shadows Into Light', cursive;
+        
+    
+    }
+
+.carousel-item img {
+    width:100%;
+    height: 80vh;
+    }
