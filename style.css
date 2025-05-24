@@ -19,7 +19,9 @@
 }
 
 /* Secondary headings with decorative font */
-h2, h5, h4 {
+h2,
+h5,
+h4 {
   font-family: "Shadows Into Light", cursive;
 }
 
@@ -106,17 +108,17 @@ h2, h5, h4 {
   .carousel-item img {
     height: 60vh; /* Reduced height for mobile devices */
   }
-  
+
   .carousel-control-prev,
   .carousel-control-next {
     width: 45px;
     height: 45px;
   }
-  
+
   .carousel-control-prev {
     left: 10px;
   }
-  
+
   .carousel-control-next {
     right: 10px;
   }
@@ -196,6 +198,11 @@ h2, h5, h4 {
   box-shadow: 0 2px 20px rgba(0, 0, 0, 0.1);
 }
 
+/* ==========================================
+   FOOTER STYLES
+   ========================================== */
+
+/* Changed Footer Backgound */
 .custom-footer {
   background-color: rgb(255, 236, 95);
 }
@@ -211,12 +218,12 @@ h2, h5, h4 {
     text-align: center;
     padding: 20px 0;
   }
-  
+
   /* Add spacing between navigation items on mobile */
   .nav-item {
     margin: 5px 0;
   }
-  
+
   /* Adjust brand image size for mobile */
   .navbar-brand img {
     max-width: 40px;
