@@ -29,7 +29,7 @@ This is a responsive burger restaurant website built using **Bootstrap 5** and c
    ```
 2. Navigate to the project folder:
    ```bash
-   cd fc-real-estate
+   cd burger-website-bootstrap
    ```
 3. Open `index.html` in your browser.
 
