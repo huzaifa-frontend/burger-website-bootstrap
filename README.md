@@ -44,7 +44,7 @@ This is a responsive burger restaurant website built using **Bootstrap 5** and c
 ## 📁 File Structure
 
 ```
-📦 real-estate-html-css
+📦 burger-website-bootstrap
  ┣ 📂 assets
  ┣ 📄 index.html
  ┣ 📄 style.css
