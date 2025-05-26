@@ -58,6 +58,10 @@ This is a responsive burger restaurant website built using **Bootstrap 5** and c
 - Icons from [Font Awesome](https://fontawesome.com/)
 - Background images from [Unsplash](https://unsplash.com/)
 
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
+
 ## ✍️ Author
 
 **Muhammad Huzaifa Karim**  
