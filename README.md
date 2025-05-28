@@ -20,6 +20,7 @@ This is a responsive burger restaurant website built using **Bootstrap 5** and c
 - [Bootstrap 5](https://getbootstrap.com/) (Carousel, Navbar, Grid, utilities)
 - Google Fonts
 - FontAwesome
+- [AOS (Animate On Scroll)](https://michalsnik.github.io/aos/) – Scroll-triggered animations on elements
 
 ## 🚀 How to Use
 
